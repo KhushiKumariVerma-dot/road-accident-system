@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-10-09T10:27:25.195904",
+  "latitude": 28.5731,
+  "longitude": 77.2537,
+  "traffic_volume": 720,
+  "average_speed": 58,
+  "weather_condition": "Clear",
+  "visibility": 4.9,
+  "road_condition": "Dry",
+  "historical_accidents": 16
+}
