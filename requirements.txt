@@ -9,3 +9,4 @@ uvicorn>=0.20.0
 flask>=3.0.0
 geopandas>=0.14.0
 requests>=2.31.0
+pydeck>=0.8.0

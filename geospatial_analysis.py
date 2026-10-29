@@ -24,6 +24,7 @@ def generate_geojson():
 
     features = []
     for idx, row in df.iterrows():
+        loc_name = row.get("location_name", f"Road Segment #{idx+1}")
         feature = {
             "type": "Feature",
             "id": str(idx),
@@ -32,6 +33,7 @@ def generate_geojson():
                 "coordinates": [float(row["longitude"]), float(row["latitude"])]
             },
             "properties": {
+                "location_name": str(loc_name),
                 "latitude": float(row["latitude"]),
                 "longitude": float(row["longitude"]),
                 "traffic_volume": int(row["traffic_volume"]),
@@ -57,10 +59,6 @@ def generate_geojson():
     print("Geospatial analysis completed:")
     print(f"Total road accident points processed: {len(features)}")
     print(f"GeoJSON saved to: {GEOJSON_FILE}")
-
-    # Risk summary
-    risk_summary = df["risk"].value_counts().to_dict()
-    print("Risk breakdown:", risk_summary)
     return geojson_obj
 
 

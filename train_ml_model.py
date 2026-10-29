@@ -61,9 +61,19 @@ def train_model():
     df["road_condition"] = df["road_condition"].map(road_map)
     df["risk"] = df["risk"].map(risk_map)
 
-    X = df.drop("risk", axis=1)
+    feature_names = [
+        "latitude",
+        "longitude",
+        "traffic_volume",
+        "average_speed",
+        "weather_condition",
+        "visibility",
+        "road_condition",
+        "historical_accidents"
+    ]
+
+    X = df[feature_names]
     y = df["risk"]
-    feature_names = list(X.columns)
 
     # 80% train, 20% test split
     np.random.seed(42)

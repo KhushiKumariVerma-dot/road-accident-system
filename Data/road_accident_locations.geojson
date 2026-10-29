@@ -12,6 +12,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida Sector 18 / Atta Market Corridor (Node #001)",
         "latitude": 28.5624,
         "longitude": 77.3142,
         "traffic_volume": 111,
@@ -34,6 +35,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #002)",
         "latitude": 28.7352,
         "longitude": 77.2412,
         "traffic_volume": 315,
@@ -56,6 +58,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #003)",
         "latitude": 28.6696,
         "longitude": 77.1393,
         "traffic_volume": 438,
@@ -78,6 +81,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #004)",
         "latitude": 28.6296,
         "longitude": 77.3662,
         "traffic_volume": 760,
@@ -100,6 +104,7 @@
         ]
       },
       "properties": {
+        "location_name": "Mathura Road / Badarpur Border (Node #005)",
         "latitude": 28.4968,
         "longitude": 77.3081,
         "traffic_volume": 473,
@@ -122,6 +127,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #006)",
         "latitude": 28.4968,
         "longitude": 77.0732,
         "traffic_volume": 1075,
@@ -144,6 +150,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #007)",
         "latitude": 28.4674,
         "longitude": 77.4099,
         "traffic_volume": 809,
@@ -166,6 +173,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #008)",
         "latitude": 28.7099,
         "longitude": 77.3701,
         "traffic_volume": 565,
@@ -188,6 +196,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #009)",
         "latitude": 28.6303,
         "longitude": 77.4274,
         "traffic_volume": 588,
@@ -210,6 +219,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #010)",
         "latitude": 28.6624,
         "longitude": 77.3266,
         "traffic_volume": 146,
@@ -232,6 +242,7 @@
         ]
       },
       "properties": {
+        "location_name": "Bata Chowk / NH-19 Faridabad (Node #011)",
         "latitude": 28.4562,
         "longitude": 77.276,
         "traffic_volume": 877,
@@ -254,6 +265,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #012)",
         "latitude": 28.741,
         "longitude": 77.1882,
         "traffic_volume": 1139,
@@ -276,6 +288,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #013)",
         "latitude": 28.6997,
         "longitude": 77.4197,
         "traffic_volume": 810,
@@ -298,6 +311,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #014)",
         "latitude": 28.5137,
         "longitude": 77.3897,
         "traffic_volume": 500,
@@ -320,6 +334,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sohna Road / Subhash Chowk (Node #015)",
         "latitude": 28.5045,
         "longitude": 77.0203,
         "traffic_volume": 1080,
@@ -342,6 +357,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hero Honda Chowk / NH-48 (Node #016)",
         "latitude": 28.505,
         "longitude": 77.0119,
         "traffic_volume": 349,
@@ -364,6 +380,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #017)",
         "latitude": 28.5413,
         "longitude": 77.1694,
         "traffic_volume": 490,
@@ -386,6 +403,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #018)",
         "latitude": 28.6074,
         "longitude": 77.3647,
         "traffic_volume": 434,
@@ -408,6 +426,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #019)",
         "latitude": 28.5796,
         "longitude": 77.4443,
         "traffic_volume": 728,
@@ -430,6 +449,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #020)",
         "latitude": 28.5374,
         "longitude": 77.0677,
         "traffic_volume": 236,
@@ -452,6 +472,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #021)",
         "latitude": 28.6336,
         "longitude": 77.2674,
         "traffic_volume": 982,
@@ -474,6 +495,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #022)",
         "latitude": 28.4918,
         "longitude": 77.1714,
         "traffic_volume": 787,
@@ -496,6 +518,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #023)",
         "latitude": 28.5376,
         "longitude": 77.4365,
         "traffic_volume": 926,
@@ -518,6 +541,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #024)",
         "latitude": 28.5599,
         "longitude": 77.379,
         "traffic_volume": 826,
@@ -540,6 +564,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #025)",
         "latitude": 28.5868,
         "longitude": 77.3772,
         "traffic_volume": 693,
@@ -562,6 +587,7 @@
         ]
       },
       "properties": {
+        "location_name": "GT Karnal Road / Azadpur Flyover (Node #026)",
         "latitude": 28.6856,
         "longitude": 77.2109,
         "traffic_volume": 1089,
@@ -584,6 +610,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #027)",
         "latitude": 28.5099,
         "longitude": 77.1867,
         "traffic_volume": 471,
@@ -606,6 +633,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #028)",
         "latitude": 28.6043,
         "longitude": 77.123,
         "traffic_volume": 1034,
@@ -628,6 +656,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #029)",
         "latitude": 28.6277,
         "longitude": 77.0254,
         "traffic_volume": 1094,
@@ -650,6 +679,7 @@
         ]
       },
       "properties": {
+        "location_name": "Surajkund Road / Green Valley (Node #030)",
         "latitude": 28.4639,
         "longitude": 77.3891,
         "traffic_volume": 501,
@@ -672,6 +702,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #031)",
         "latitude": 28.6323,
         "longitude": 77.3658,
         "traffic_volume": 714,
@@ -694,6 +725,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #032)",
         "latitude": 28.5012,
         "longitude": 77.4499,
         "traffic_volume": 1094,
@@ -716,6 +748,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #033)",
         "latitude": 28.4695,
         "longitude": 77.4485,
         "traffic_volume": 719,
@@ -738,6 +771,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #034)",
         "latitude": 28.7347,
         "longitude": 77.2499,
         "traffic_volume": 287,
@@ -760,6 +794,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #035)",
         "latitude": 28.7397,
         "longitude": 77.346,
         "traffic_volume": 230,
@@ -782,6 +817,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #036)",
         "latitude": 28.6925,
         "longitude": 77.4251,
         "traffic_volume": 904,
@@ -804,6 +840,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #037)",
         "latitude": 28.5414,
         "longitude": 77.3823,
         "traffic_volume": 1035,
@@ -826,6 +863,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #038)",
         "latitude": 28.4793,
         "longitude": 77.1113,
         "traffic_volume": 1085,
@@ -848,6 +886,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #039)",
         "latitude": 28.6553,
         "longitude": 77.2027,
         "traffic_volume": 282,
@@ -870,6 +909,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #040)",
         "latitude": 28.582,
         "longitude": 77.0581,
         "traffic_volume": 1082,
@@ -892,6 +932,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #041)",
         "latitude": 28.4866,
         "longitude": 77.4293,
         "traffic_volume": 463,
@@ -914,6 +955,7 @@
         ]
       },
       "properties": {
+        "location_name": "Akshardham / Nizamuddin Bridge Link (Node #042)",
         "latitude": 28.5986,
         "longitude": 77.2728,
         "traffic_volume": 138,
@@ -936,6 +978,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #043)",
         "latitude": 28.4603,
         "longitude": 77.1029,
         "traffic_volume": 596,
@@ -958,6 +1001,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #044)",
         "latitude": 28.7228,
         "longitude": 77.3023,
         "traffic_volume": 1081,
@@ -980,6 +1024,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #045)",
         "latitude": 28.5276,
         "longitude": 77.2782,
         "traffic_volume": 1020,
@@ -1002,6 +1047,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #046)",
         "latitude": 28.6488,
         "longitude": 77.1612,
         "traffic_volume": 821,
@@ -1024,6 +1070,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #047)",
         "latitude": 28.5435,
         "longitude": 77.0511,
         "traffic_volume": 115,
@@ -1046,6 +1093,7 @@
         ]
       },
       "properties": {
+        "location_name": "Akshardham / Nizamuddin Bridge Link (Node #048)",
         "latitude": 28.606,
         "longitude": 77.3022,
         "traffic_volume": 592,
@@ -1068,6 +1116,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #049)",
         "latitude": 28.614,
         "longitude": 77.2341,
         "traffic_volume": 993,
@@ -1090,6 +1139,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sarita Vihar / Apollo Hospital Corridor (Node #050)",
         "latitude": 28.5055,
         "longitude": 77.3475,
         "traffic_volume": 410,
@@ -1112,6 +1162,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #051)",
         "latitude": 28.7409,
         "longitude": 77.2341,
         "traffic_volume": 838,
@@ -1134,6 +1185,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #052)",
         "latitude": 28.6825,
         "longitude": 77.3835,
         "traffic_volume": 645,
@@ -1156,6 +1208,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #053)",
         "latitude": 28.7318,
         "longitude": 77.2484,
         "traffic_volume": 513,
@@ -1178,6 +1231,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #054)",
         "latitude": 28.7184,
         "longitude": 77.2524,
         "traffic_volume": 350,
@@ -1200,6 +1254,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #055)",
         "latitude": 28.6294,
         "longitude": 77.3945,
         "traffic_volume": 858,
@@ -1222,6 +1277,7 @@
         ]
       },
       "properties": {
+        "location_name": "GT Karnal Road / Azadpur Flyover (Node #056)",
         "latitude": 28.7266,
         "longitude": 77.1816,
         "traffic_volume": 1162,
@@ -1244,6 +1300,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sohna Road / Subhash Chowk (Node #057)",
         "latitude": 28.4765,
         "longitude": 77.0603,
         "traffic_volume": 913,
@@ -1266,6 +1323,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hero Honda Chowk / NH-48 (Node #058)",
         "latitude": 28.5088,
         "longitude": 77.013,
         "traffic_volume": 128,
@@ -1288,6 +1346,7 @@
         ]
       },
       "properties": {
+        "location_name": "Surajkund Road / Green Valley (Node #059)",
         "latitude": 28.4636,
         "longitude": 77.3398,
         "traffic_volume": 1057,
@@ -1310,6 +1369,7 @@
         ]
       },
       "properties": {
+        "location_name": "Outer Ring Road / Nehru Place Flyover (Node #060)",
         "latitude": 28.5476,
         "longitude": 77.2791,
         "traffic_volume": 576,
@@ -1332,6 +1392,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida Sector 18 / Atta Market Corridor (Node #061)",
         "latitude": 28.5666,
         "longitude": 77.3168,
         "traffic_volume": 417,
@@ -1354,6 +1415,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #062)",
         "latitude": 28.5314,
         "longitude": 77.0958,
         "traffic_volume": 344,
@@ -1376,6 +1438,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #063)",
         "latitude": 28.6986,
         "longitude": 77.0614,
         "traffic_volume": 847,
@@ -1398,6 +1461,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #064)",
         "latitude": 28.557,
         "longitude": 77.0065,
         "traffic_volume": 796,
@@ -1420,6 +1484,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #065)",
         "latitude": 28.5343,
         "longitude": 77.1578,
         "traffic_volume": 371,
@@ -1442,6 +1507,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #066)",
         "latitude": 28.6128,
         "longitude": 77.2655,
         "traffic_volume": 476,
@@ -1464,6 +1530,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #067)",
         "latitude": 28.4923,
         "longitude": 77.1765,
         "traffic_volume": 365,
@@ -1486,6 +1553,7 @@
         ]
       },
       "properties": {
+        "location_name": "GT Karnal Road / Azadpur Flyover (Node #068)",
         "latitude": 28.6907,
         "longitude": 77.1969,
         "traffic_volume": 1025,
@@ -1508,6 +1576,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #069)",
         "latitude": 28.4724,
         "longitude": 77.4069,
         "traffic_volume": 1020,
@@ -1530,6 +1599,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #070)",
         "latitude": 28.7461,
         "longitude": 77.1567,
         "traffic_volume": 439,
@@ -1552,6 +1622,7 @@
         ]
       },
       "properties": {
+        "location_name": "Chandni Chowk / Red Fort Corridor (Node #071)",
         "latitude": 28.6817,
         "longitude": 77.2313,
         "traffic_volume": 488,
@@ -1574,6 +1645,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sarita Vihar / Apollo Hospital Corridor (Node #072)",
         "latitude": 28.5096,
         "longitude": 77.3526,
         "traffic_volume": 676,
@@ -1596,6 +1668,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #073)",
         "latitude": 28.4517,
         "longitude": 77.1784,
         "traffic_volume": 102,
@@ -1618,6 +1691,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #074)",
         "latitude": 28.6946,
         "longitude": 77.2799,
         "traffic_volume": 475,
@@ -1640,6 +1714,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #075)",
         "latitude": 28.6621,
         "longitude": 77.3881,
         "traffic_volume": 423,
@@ -1662,6 +1737,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #076)",
         "latitude": 28.6687,
         "longitude": 77.4273,
         "traffic_volume": 245,
@@ -1684,6 +1760,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #077)",
         "latitude": 28.6814,
         "longitude": 77.0662,
         "traffic_volume": 392,
@@ -1706,6 +1783,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #078)",
         "latitude": 28.4722,
         "longitude": 77.417,
         "traffic_volume": 531,
@@ -1728,6 +1806,7 @@
         ]
       },
       "properties": {
+        "location_name": "Ring Road / AIIMS - Safdarjung Junction (Node #079)",
         "latitude": 28.5575,
         "longitude": 77.2215,
         "traffic_volume": 804,
@@ -1750,6 +1829,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #080)",
         "latitude": 28.4848,
         "longitude": 77.1162,
         "traffic_volume": 1048,
@@ -1772,6 +1852,7 @@
         ]
       },
       "properties": {
+        "location_name": "GT Karnal Road / Azadpur Flyover (Node #081)",
         "latitude": 28.7089,
         "longitude": 77.2066,
         "traffic_volume": 684,
@@ -1794,6 +1875,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #082)",
         "latitude": 28.637,
         "longitude": 77.441,
         "traffic_volume": 498,
@@ -1816,6 +1898,7 @@
         ]
       },
       "properties": {
+        "location_name": "Lajpat Nagar / Moolchand Underpass (Node #083)",
         "latitude": 28.5493,
         "longitude": 77.2217,
         "traffic_volume": 916,
@@ -1838,6 +1921,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #084)",
         "latitude": 28.4691,
         "longitude": 77.1479,
         "traffic_volume": 1063,
@@ -1860,6 +1944,7 @@
         ]
       },
       "properties": {
+        "location_name": "Outer Ring Road / Nehru Place Flyover (Node #085)",
         "latitude": 28.5433,
         "longitude": 77.285,
         "traffic_volume": 286,
@@ -1882,6 +1967,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #086)",
         "latitude": 28.5476,
         "longitude": 77.1081,
         "traffic_volume": 160,
@@ -1904,6 +1990,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #087)",
         "latitude": 28.6689,
         "longitude": 77.0341,
         "traffic_volume": 1038,
@@ -1926,6 +2013,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #088)",
         "latitude": 28.6413,
         "longitude": 77.058,
         "traffic_volume": 809,
@@ -1948,6 +2036,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #089)",
         "latitude": 28.7162,
         "longitude": 77.0576,
         "traffic_volume": 906,
@@ -1970,6 +2059,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #090)",
         "latitude": 28.5917,
         "longitude": 77.0684,
         "traffic_volume": 110,
@@ -1992,6 +2082,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sohna Road / Subhash Chowk (Node #091)",
         "latitude": 28.4859,
         "longitude": 77.0625,
         "traffic_volume": 1185,
@@ -2014,6 +2105,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #092)",
         "latitude": 28.664,
         "longitude": 77.2884,
         "traffic_volume": 325,
@@ -2036,6 +2128,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #093)",
         "latitude": 28.6782,
         "longitude": 77.0818,
         "traffic_volume": 663,
@@ -2058,6 +2151,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #094)",
         "latitude": 28.6184,
         "longitude": 77.1556,
         "traffic_volume": 871,
@@ -2080,6 +2174,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #095)",
         "latitude": 28.6813,
         "longitude": 77.4036,
         "traffic_volume": 984,
@@ -2102,6 +2197,7 @@
         ]
       },
       "properties": {
+        "location_name": "India Gate / C-Hexagon (Node #096)",
         "latitude": 28.5981,
         "longitude": 77.2133,
         "traffic_volume": 325,
@@ -2124,6 +2220,7 @@
         ]
       },
       "properties": {
+        "location_name": "Akshardham / Nizamuddin Bridge Link (Node #097)",
         "latitude": 28.6068,
         "longitude": 77.3004,
         "traffic_volume": 924,
@@ -2146,6 +2243,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #098)",
         "latitude": 28.5783,
         "longitude": 77.0775,
         "traffic_volume": 317,
@@ -2168,6 +2266,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #099)",
         "latitude": 28.4576,
         "longitude": 77.0865,
         "traffic_volume": 1036,
@@ -2190,6 +2289,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hero Honda Chowk / NH-48 (Node #100)",
         "latitude": 28.4824,
         "longitude": 77.0184,
         "traffic_volume": 852,
@@ -2212,6 +2312,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #101)",
         "latitude": 28.4594,
         "longitude": 77.076,
         "traffic_volume": 605,
@@ -2234,6 +2335,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #102)",
         "latitude": 28.6409,
         "longitude": 77.1254,
         "traffic_volume": 358,
@@ -2256,6 +2358,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #103)",
         "latitude": 28.5443,
         "longitude": 77.0797,
         "traffic_volume": 153,
@@ -2278,6 +2381,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #104)",
         "latitude": 28.6026,
         "longitude": 77.0399,
         "traffic_volume": 1170,
@@ -2300,6 +2404,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #105)",
         "latitude": 28.7223,
         "longitude": 77.0543,
         "traffic_volume": 826,
@@ -2322,6 +2427,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #106)",
         "latitude": 28.5248,
         "longitude": 77.2074,
         "traffic_volume": 788,
@@ -2344,6 +2450,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #107)",
         "latitude": 28.5731,
         "longitude": 77.0929,
         "traffic_volume": 1143,
@@ -2366,6 +2473,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #108)",
         "latitude": 28.6767,
         "longitude": 77.1639,
         "traffic_volume": 518,
@@ -2388,6 +2496,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #109)",
         "latitude": 28.5186,
         "longitude": 77.2265,
         "traffic_volume": 789,
@@ -2410,6 +2519,7 @@
         ]
       },
       "properties": {
+        "location_name": "Bata Chowk / NH-19 Faridabad (Node #110)",
         "latitude": 28.4731,
         "longitude": 77.3107,
         "traffic_volume": 949,
@@ -2432,6 +2542,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #111)",
         "latitude": 28.5369,
         "longitude": 77.0177,
         "traffic_volume": 161,
@@ -2454,6 +2565,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sarita Vihar / Apollo Hospital Corridor (Node #112)",
         "latitude": 28.4984,
         "longitude": 77.3597,
         "traffic_volume": 315,
@@ -2476,6 +2588,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #113)",
         "latitude": 28.7289,
         "longitude": 77.2826,
         "traffic_volume": 102,
@@ -2498,6 +2611,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #114)",
         "latitude": 28.6924,
         "longitude": 77.0368,
         "traffic_volume": 259,
@@ -2520,6 +2634,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #115)",
         "latitude": 28.64,
         "longitude": 77.3931,
         "traffic_volume": 880,
@@ -2542,6 +2657,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #116)",
         "latitude": 28.7114,
         "longitude": 77.4144,
         "traffic_volume": 992,
@@ -2564,6 +2680,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #117)",
         "latitude": 28.6911,
         "longitude": 77.0275,
         "traffic_volume": 428,
@@ -2586,6 +2703,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #118)",
         "latitude": 28.506,
         "longitude": 77.1246,
         "traffic_volume": 679,
@@ -2608,6 +2726,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #119)",
         "latitude": 28.7178,
         "longitude": 77.3628,
         "traffic_volume": 1051,
@@ -2630,6 +2749,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #120)",
         "latitude": 28.6118,
         "longitude": 77.3367,
         "traffic_volume": 734,
@@ -2652,6 +2772,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #121)",
         "latitude": 28.6922,
         "longitude": 77.083,
         "traffic_volume": 1087,
@@ -2674,6 +2795,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #122)",
         "latitude": 28.7188,
         "longitude": 77.0942,
         "traffic_volume": 1020,
@@ -2696,6 +2818,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #123)",
         "latitude": 28.5454,
         "longitude": 77.1667,
         "traffic_volume": 837,
@@ -2718,6 +2841,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #124)",
         "latitude": 28.483,
         "longitude": 77.218,
         "traffic_volume": 269,
@@ -2740,6 +2864,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #125)",
         "latitude": 28.5184,
         "longitude": 77.2782,
         "traffic_volume": 620,
@@ -2762,6 +2887,7 @@
         ]
       },
       "properties": {
+        "location_name": "Ring Road / AIIMS - Safdarjung Junction (Node #126)",
         "latitude": 28.5781,
         "longitude": 77.166,
         "traffic_volume": 139,
@@ -2784,6 +2910,7 @@
         ]
       },
       "properties": {
+        "location_name": "GT Karnal Road / Azadpur Flyover (Node #127)",
         "latitude": 28.6954,
         "longitude": 77.2081,
         "traffic_volume": 1054,
@@ -2806,6 +2933,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #128)",
         "latitude": 28.7082,
         "longitude": 77.3364,
         "traffic_volume": 1083,
@@ -2828,6 +2956,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hero Honda Chowk / NH-48 (Node #129)",
         "latitude": 28.4521,
         "longitude": 77.0165,
         "traffic_volume": 1074,
@@ -2850,6 +2979,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #130)",
         "latitude": 28.6032,
         "longitude": 77.1136,
         "traffic_volume": 137,
@@ -2872,6 +3002,7 @@
         ]
       },
       "properties": {
+        "location_name": "DND Flyway / Mayur Vihar Toll (Node #131)",
         "latitude": 28.5752,
         "longitude": 77.321,
         "traffic_volume": 427,
@@ -2894,6 +3025,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #132)",
         "latitude": 28.5166,
         "longitude": 77.4028,
         "traffic_volume": 1013,
@@ -2916,6 +3048,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #133)",
         "latitude": 28.486,
         "longitude": 77.2303,
         "traffic_volume": 553,
@@ -2938,6 +3071,7 @@
         ]
       },
       "properties": {
+        "location_name": "Lajpat Nagar / Moolchand Underpass (Node #134)",
         "latitude": 28.5513,
         "longitude": 77.2395,
         "traffic_volume": 136,
@@ -2960,6 +3094,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #135)",
         "latitude": 28.7329,
         "longitude": 77.0482,
         "traffic_volume": 1072,
@@ -2982,6 +3117,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #136)",
         "latitude": 28.547,
         "longitude": 77.2013,
         "traffic_volume": 895,
@@ -3004,6 +3140,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #137)",
         "latitude": 28.6056,
         "longitude": 77.2397,
         "traffic_volume": 1072,
@@ -3026,6 +3163,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #138)",
         "latitude": 28.6609,
         "longitude": 77.1091,
         "traffic_volume": 692,
@@ -3048,6 +3186,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #139)",
         "latitude": 28.5591,
         "longitude": 77.1212,
         "traffic_volume": 1163,
@@ -3070,6 +3209,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #140)",
         "latitude": 28.7415,
         "longitude": 77.1698,
         "traffic_volume": 323,
@@ -3092,6 +3232,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #141)",
         "latitude": 28.7387,
         "longitude": 77.009,
         "traffic_volume": 417,
@@ -3114,6 +3255,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #142)",
         "latitude": 28.5255,
         "longitude": 77.1449,
         "traffic_volume": 448,
@@ -3136,6 +3278,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #143)",
         "latitude": 28.5992,
         "longitude": 77.0952,
         "traffic_volume": 214,
@@ -3158,6 +3301,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #144)",
         "latitude": 28.5403,
         "longitude": 77.1474,
         "traffic_volume": 797,
@@ -3180,6 +3324,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #145)",
         "latitude": 28.5355,
         "longitude": 77.0539,
         "traffic_volume": 1163,
@@ -3202,6 +3347,7 @@
         ]
       },
       "properties": {
+        "location_name": "Surajkund Road / Green Valley (Node #146)",
         "latitude": 28.4611,
         "longitude": 77.4007,
         "traffic_volume": 139,
@@ -3224,6 +3370,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #147)",
         "latitude": 28.6329,
         "longitude": 77.2671,
         "traffic_volume": 315,
@@ -3246,6 +3393,7 @@
         ]
       },
       "properties": {
+        "location_name": "Akshardham / Nizamuddin Bridge Link (Node #148)",
         "latitude": 28.6008,
         "longitude": 77.3056,
         "traffic_volume": 435,
@@ -3268,6 +3416,7 @@
         ]
       },
       "properties": {
+        "location_name": "Surajkund Road / Green Valley (Node #149)",
         "latitude": 28.4654,
         "longitude": 77.3551,
         "traffic_volume": 191,
@@ -3290,6 +3439,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #150)",
         "latitude": 28.5336,
         "longitude": 77.2243,
         "traffic_volume": 452,
@@ -3312,6 +3462,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #151)",
         "latitude": 28.7225,
         "longitude": 77.0391,
         "traffic_volume": 670,
@@ -3334,6 +3485,7 @@
         ]
       },
       "properties": {
+        "location_name": "Outer Ring Road / Nehru Place Flyover (Node #152)",
         "latitude": 28.5219,
         "longitude": 77.2417,
         "traffic_volume": 915,
@@ -3356,6 +3508,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #153)",
         "latitude": 28.4935,
         "longitude": 77.2641,
         "traffic_volume": 880,
@@ -3378,6 +3531,7 @@
         ]
       },
       "properties": {
+        "location_name": "DND Flyway / Mayur Vihar Toll (Node #154)",
         "latitude": 28.5968,
         "longitude": 77.3354,
         "traffic_volume": 462,
@@ -3400,6 +3554,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #155)",
         "latitude": 28.7457,
         "longitude": 77.1942,
         "traffic_volume": 656,
@@ -3422,6 +3577,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #156)",
         "latitude": 28.5226,
         "longitude": 77.0574,
         "traffic_volume": 455,
@@ -3444,6 +3600,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #157)",
         "latitude": 28.6516,
         "longitude": 77.1277,
         "traffic_volume": 290,
@@ -3466,6 +3623,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #158)",
         "latitude": 28.6785,
         "longitude": 77.1634,
         "traffic_volume": 521,
@@ -3488,6 +3646,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #159)",
         "latitude": 28.5213,
         "longitude": 77.2907,
         "traffic_volume": 799,
@@ -3510,6 +3669,7 @@
         ]
       },
       "properties": {
+        "location_name": "Chandni Chowk / Red Fort Corridor (Node #160)",
         "latitude": 28.6685,
         "longitude": 77.2569,
         "traffic_volume": 106,
@@ -3532,6 +3692,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #161)",
         "latitude": 28.5603,
         "longitude": 77.1602,
         "traffic_volume": 232,
@@ -3554,6 +3715,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #162)",
         "latitude": 28.6397,
         "longitude": 77.4439,
         "traffic_volume": 656,
@@ -3576,6 +3738,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #163)",
         "latitude": 28.6401,
         "longitude": 77.2726,
         "traffic_volume": 925,
@@ -3598,6 +3761,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #164)",
         "latitude": 28.6107,
         "longitude": 77.1068,
         "traffic_volume": 860,
@@ -3620,6 +3784,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sohna Road / Subhash Chowk (Node #165)",
         "latitude": 28.4771,
         "longitude": 77.0458,
         "traffic_volume": 1154,
@@ -3642,6 +3807,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #166)",
         "latitude": 28.7006,
         "longitude": 77.0688,
         "traffic_volume": 634,
@@ -3664,6 +3830,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #167)",
         "latitude": 28.5462,
         "longitude": 77.1107,
         "traffic_volume": 525,
@@ -3686,6 +3853,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #168)",
         "latitude": 28.506,
         "longitude": 77.0723,
         "traffic_volume": 771,
@@ -3708,6 +3876,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #169)",
         "latitude": 28.4622,
         "longitude": 77.084,
         "traffic_volume": 462,
@@ -3730,6 +3899,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #170)",
         "latitude": 28.6273,
         "longitude": 77.1283,
         "traffic_volume": 181,
@@ -3752,6 +3922,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #171)",
         "latitude": 28.6533,
         "longitude": 77.078,
         "traffic_volume": 455,
@@ -3774,6 +3945,7 @@
         ]
       },
       "properties": {
+        "location_name": "Surajkund Road / Green Valley (Node #172)",
         "latitude": 28.455,
         "longitude": 77.4035,
         "traffic_volume": 688,
@@ -3796,6 +3968,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #173)",
         "latitude": 28.6036,
         "longitude": 77.0361,
         "traffic_volume": 394,
@@ -3818,6 +3991,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #174)",
         "latitude": 28.5179,
         "longitude": 77.236,
         "traffic_volume": 1169,
@@ -3840,6 +4014,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #175)",
         "latitude": 28.6436,
         "longitude": 77.1847,
         "traffic_volume": 116,
@@ -3862,6 +4037,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #176)",
         "latitude": 28.5023,
         "longitude": 77.4421,
         "traffic_volume": 459,
@@ -3884,6 +4060,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #177)",
         "latitude": 28.6573,
         "longitude": 77.0504,
         "traffic_volume": 965,
@@ -3906,6 +4083,7 @@
         ]
       },
       "properties": {
+        "location_name": "Ring Road / AIIMS - Safdarjung Junction (Node #178)",
         "latitude": 28.566,
         "longitude": 77.179,
         "traffic_volume": 799,
@@ -3928,6 +4106,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #179)",
         "latitude": 28.731,
         "longitude": 77.4363,
         "traffic_volume": 547,
@@ -3950,6 +4129,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #180)",
         "latitude": 28.4913,
         "longitude": 77.3895,
         "traffic_volume": 955,
@@ -3972,6 +4152,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #181)",
         "latitude": 28.5523,
         "longitude": 77.3677,
         "traffic_volume": 464,
@@ -3994,6 +4175,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #182)",
         "latitude": 28.484,
         "longitude": 77.1161,
         "traffic_volume": 774,
@@ -4016,6 +4198,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #183)",
         "latitude": 28.7274,
         "longitude": 77.0769,
         "traffic_volume": 1107,
@@ -4038,6 +4221,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #184)",
         "latitude": 28.7132,
         "longitude": 77.3009,
         "traffic_volume": 566,
@@ -4060,6 +4244,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #185)",
         "latitude": 28.5274,
         "longitude": 77.4182,
         "traffic_volume": 513,
@@ -4082,6 +4267,7 @@
         ]
       },
       "properties": {
+        "location_name": "Chandni Chowk / Red Fort Corridor (Node #186)",
         "latitude": 28.648,
         "longitude": 77.2505,
         "traffic_volume": 685,
@@ -4104,6 +4290,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #187)",
         "latitude": 28.6952,
         "longitude": 77.2572,
         "traffic_volume": 1093,
@@ -4126,6 +4313,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #188)",
         "latitude": 28.6166,
         "longitude": 77.126,
         "traffic_volume": 671,
@@ -4148,6 +4336,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #189)",
         "latitude": 28.6089,
         "longitude": 77.3463,
         "traffic_volume": 434,
@@ -4170,6 +4359,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #190)",
         "latitude": 28.5226,
         "longitude": 77.0842,
         "traffic_volume": 136,
@@ -4192,6 +4382,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #191)",
         "latitude": 28.4779,
         "longitude": 77.1457,
         "traffic_volume": 1088,
@@ -4214,6 +4405,7 @@
         ]
       },
       "properties": {
+        "location_name": "GT Karnal Road / Azadpur Flyover (Node #192)",
         "latitude": 28.7192,
         "longitude": 77.1914,
         "traffic_volume": 377,
@@ -4236,6 +4428,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #193)",
         "latitude": 28.7201,
         "longitude": 77.2284,
         "traffic_volume": 1015,
@@ -4258,6 +4451,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #194)",
         "latitude": 28.6399,
         "longitude": 77.1091,
         "traffic_volume": 583,
@@ -4280,6 +4474,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #195)",
         "latitude": 28.5517,
         "longitude": 77.0517,
         "traffic_volume": 830,
@@ -4302,6 +4497,7 @@
         ]
       },
       "properties": {
+        "location_name": "Outer Ring Road / Nehru Place Flyover (Node #196)",
         "latitude": 28.5548,
         "longitude": 77.2748,
         "traffic_volume": 291,
@@ -4324,6 +4520,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #197)",
         "latitude": 28.6678,
         "longitude": 77.1299,
         "traffic_volume": 1140,
@@ -4346,6 +4543,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #198)",
         "latitude": 28.7191,
         "longitude": 77.2616,
         "traffic_volume": 623,
@@ -4368,6 +4566,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #199)",
         "latitude": 28.7161,
         "longitude": 77.0695,
         "traffic_volume": 1017,
@@ -4390,6 +4589,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #200)",
         "latitude": 28.684,
         "longitude": 77.2165,
         "traffic_volume": 500,
@@ -4412,6 +4612,7 @@
         ]
       },
       "properties": {
+        "location_name": "Chandni Chowk / Red Fort Corridor (Node #201)",
         "latitude": 28.6426,
         "longitude": 77.2397,
         "traffic_volume": 985,
@@ -4434,6 +4635,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hero Honda Chowk / NH-48 (Node #202)",
         "latitude": 28.4752,
         "longitude": 77.0233,
         "traffic_volume": 804,
@@ -4456,6 +4658,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #203)",
         "latitude": 28.4985,
         "longitude": 77.1515,
         "traffic_volume": 121,
@@ -4478,6 +4681,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #204)",
         "latitude": 28.7196,
         "longitude": 77.0605,
         "traffic_volume": 573,
@@ -4500,6 +4704,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #205)",
         "latitude": 28.6319,
         "longitude": 77.0285,
         "traffic_volume": 309,
@@ -4522,6 +4727,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #206)",
         "latitude": 28.4528,
         "longitude": 77.4455,
         "traffic_volume": 405,
@@ -4544,6 +4750,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #207)",
         "latitude": 28.4804,
         "longitude": 77.1451,
         "traffic_volume": 803,
@@ -4566,6 +4773,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #208)",
         "latitude": 28.6491,
         "longitude": 77.3644,
         "traffic_volume": 786,
@@ -4588,6 +4796,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #209)",
         "latitude": 28.4515,
         "longitude": 77.1146,
         "traffic_volume": 384,
@@ -4610,6 +4819,7 @@
         ]
       },
       "properties": {
+        "location_name": "Mathura Road / Badarpur Border (Node #210)",
         "latitude": 28.4982,
         "longitude": 77.3067,
         "traffic_volume": 815,
@@ -4632,6 +4842,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #211)",
         "latitude": 28.6146,
         "longitude": 77.3421,
         "traffic_volume": 862,
@@ -4654,6 +4865,7 @@
         ]
       },
       "properties": {
+        "location_name": "Chandni Chowk / Red Fort Corridor (Node #212)",
         "latitude": 28.6576,
         "longitude": 77.268,
         "traffic_volume": 1047,
@@ -4676,6 +4888,7 @@
         ]
       },
       "properties": {
+        "location_name": "Connaught Place / Outer Circle (Node #213)",
         "latitude": 28.6456,
         "longitude": 77.2122,
         "traffic_volume": 480,
@@ -4698,6 +4911,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #214)",
         "latitude": 28.5173,
         "longitude": 77.1853,
         "traffic_volume": 559,
@@ -4720,6 +4934,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #215)",
         "latitude": 28.6637,
         "longitude": 77.157,
         "traffic_volume": 1130,
@@ -4742,6 +4957,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #216)",
         "latitude": 28.5212,
         "longitude": 77.4183,
         "traffic_volume": 128,
@@ -4764,6 +4980,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #217)",
         "latitude": 28.5476,
         "longitude": 77.3738,
         "traffic_volume": 1006,
@@ -4786,6 +5003,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #218)",
         "latitude": 28.6739,
         "longitude": 77.4343,
         "traffic_volume": 1156,
@@ -4808,6 +5026,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #219)",
         "latitude": 28.6449,
         "longitude": 77.0559,
         "traffic_volume": 978,
@@ -4830,6 +5049,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #220)",
         "latitude": 28.7048,
         "longitude": 77.3289,
         "traffic_volume": 178,
@@ -4852,6 +5072,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #221)",
         "latitude": 28.6473,
         "longitude": 77.4223,
         "traffic_volume": 1046,
@@ -4874,6 +5095,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #222)",
         "latitude": 28.6205,
         "longitude": 77.0816,
         "traffic_volume": 558,
@@ -4896,6 +5118,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hero Honda Chowk / NH-48 (Node #223)",
         "latitude": 28.4781,
         "longitude": 77.0299,
         "traffic_volume": 669,
@@ -4918,6 +5141,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida Sector 18 / Atta Market Corridor (Node #224)",
         "latitude": 28.5603,
         "longitude": 77.3335,
         "traffic_volume": 837,
@@ -4940,6 +5164,7 @@
         ]
       },
       "properties": {
+        "location_name": "Outer Ring Road / Nehru Place Flyover (Node #225)",
         "latitude": 28.5296,
         "longitude": 77.2585,
         "traffic_volume": 615,
@@ -4962,6 +5187,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #226)",
         "latitude": 28.5232,
         "longitude": 77.3788,
         "traffic_volume": 496,
@@ -4984,6 +5210,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #227)",
         "latitude": 28.7419,
         "longitude": 77.0629,
         "traffic_volume": 138,
@@ -5006,6 +5233,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida Sector 18 / Atta Market Corridor (Node #228)",
         "latitude": 28.5679,
         "longitude": 77.3579,
         "traffic_volume": 986,
@@ -5028,6 +5256,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #229)",
         "latitude": 28.7176,
         "longitude": 77.0907,
         "traffic_volume": 896,
@@ -5050,6 +5279,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #230)",
         "latitude": 28.6393,
         "longitude": 77.0736,
         "traffic_volume": 256,
@@ -5072,6 +5302,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #231)",
         "latitude": 28.6884,
         "longitude": 77.0739,
         "traffic_volume": 1198,
@@ -5094,6 +5325,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #232)",
         "latitude": 28.6008,
         "longitude": 77.3666,
         "traffic_volume": 983,
@@ -5116,6 +5348,7 @@
         ]
       },
       "properties": {
+        "location_name": "Akshardham / Nizamuddin Bridge Link (Node #233)",
         "latitude": 28.6231,
         "longitude": 77.2993,
         "traffic_volume": 1073,
@@ -5138,6 +5371,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #234)",
         "latitude": 28.5978,
         "longitude": 77.2354,
         "traffic_volume": 1145,
@@ -5160,6 +5394,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #235)",
         "latitude": 28.5086,
         "longitude": 77.1615,
         "traffic_volume": 948,
@@ -5182,6 +5417,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #236)",
         "latitude": 28.6667,
         "longitude": 77.3947,
         "traffic_volume": 847,
@@ -5204,6 +5440,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #237)",
         "latitude": 28.5342,
         "longitude": 77.1766,
         "traffic_volume": 1088,
@@ -5226,6 +5463,7 @@
         ]
       },
       "properties": {
+        "location_name": "Surajkund Road / Green Valley (Node #238)",
         "latitude": 28.4573,
         "longitude": 77.3675,
         "traffic_volume": 120,
@@ -5248,6 +5486,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #239)",
         "latitude": 28.6436,
         "longitude": 77.1976,
         "traffic_volume": 402,
@@ -5270,6 +5509,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #240)",
         "latitude": 28.5031,
         "longitude": 77.1696,
         "traffic_volume": 968,
@@ -5292,6 +5532,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #241)",
         "latitude": 28.7321,
         "longitude": 77.2082,
         "traffic_volume": 183,
@@ -5314,6 +5555,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #242)",
         "latitude": 28.7362,
         "longitude": 77.1356,
         "traffic_volume": 669,
@@ -5336,6 +5578,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #243)",
         "latitude": 28.7245,
         "longitude": 77.3364,
         "traffic_volume": 1033,
@@ -5358,6 +5601,7 @@
         ]
       },
       "properties": {
+        "location_name": "Lajpat Nagar / Moolchand Underpass (Node #244)",
         "latitude": 28.561,
         "longitude": 77.2262,
         "traffic_volume": 1108,
@@ -5380,6 +5624,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #245)",
         "latitude": 28.4546,
         "longitude": 77.1045,
         "traffic_volume": 892,
@@ -5402,6 +5647,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #246)",
         "latitude": 28.7285,
         "longitude": 77.4048,
         "traffic_volume": 891,
@@ -5424,6 +5670,7 @@
         ]
       },
       "properties": {
+        "location_name": "Ring Road / AIIMS - Safdarjung Junction (Node #247)",
         "latitude": 28.5785,
         "longitude": 77.1728,
         "traffic_volume": 591,
@@ -5446,6 +5693,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #248)",
         "latitude": 28.74,
         "longitude": 77.2446,
         "traffic_volume": 307,
@@ -5468,6 +5716,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #249)",
         "latitude": 28.7391,
         "longitude": 77.4079,
         "traffic_volume": 1183,
@@ -5490,6 +5739,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #250)",
         "latitude": 28.7059,
         "longitude": 77.2809,
         "traffic_volume": 529,
@@ -5512,6 +5762,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #251)",
         "latitude": 28.5383,
         "longitude": 77.0526,
         "traffic_volume": 1084,
@@ -5534,6 +5785,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #252)",
         "latitude": 28.5655,
         "longitude": 77.4229,
         "traffic_volume": 619,
@@ -5556,6 +5808,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #253)",
         "latitude": 28.7053,
         "longitude": 77.2825,
         "traffic_volume": 690,
@@ -5578,6 +5831,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #254)",
         "latitude": 28.5451,
         "longitude": 77.1507,
         "traffic_volume": 1150,
@@ -5600,6 +5854,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #255)",
         "latitude": 28.5008,
         "longitude": 77.0627,
         "traffic_volume": 298,
@@ -5622,6 +5877,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #256)",
         "latitude": 28.617,
         "longitude": 77.3573,
         "traffic_volume": 486,
@@ -5644,6 +5900,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #257)",
         "latitude": 28.7308,
         "longitude": 77.279,
         "traffic_volume": 448,
@@ -5666,6 +5923,7 @@
         ]
       },
       "properties": {
+        "location_name": "Chandni Chowk / Red Fort Corridor (Node #258)",
         "latitude": 28.6588,
         "longitude": 77.2401,
         "traffic_volume": 1059,
@@ -5688,6 +5946,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #259)",
         "latitude": 28.621,
         "longitude": 77.4023,
         "traffic_volume": 792,
@@ -5710,6 +5969,7 @@
         ]
       },
       "properties": {
+        "location_name": "Surajkund Road / Green Valley (Node #260)",
         "latitude": 28.4792,
         "longitude": 77.3549,
         "traffic_volume": 477,
@@ -5732,6 +5992,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #261)",
         "latitude": 28.6345,
         "longitude": 77.0683,
         "traffic_volume": 998,
@@ -5754,6 +6015,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #262)",
         "latitude": 28.747,
         "longitude": 77.1403,
         "traffic_volume": 1015,
@@ -5776,6 +6038,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #263)",
         "latitude": 28.492,
         "longitude": 77.1118,
         "traffic_volume": 626,
@@ -5798,6 +6061,7 @@
         ]
       },
       "properties": {
+        "location_name": "DND Flyway / Mayur Vihar Toll (Node #264)",
         "latitude": 28.6055,
         "longitude": 77.3348,
         "traffic_volume": 833,
@@ -5820,6 +6084,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #265)",
         "latitude": 28.7132,
         "longitude": 77.0151,
         "traffic_volume": 305,
@@ -5842,6 +6107,7 @@
         ]
       },
       "properties": {
+        "location_name": "Chandni Chowk / Red Fort Corridor (Node #266)",
         "latitude": 28.6722,
         "longitude": 77.2565,
         "traffic_volume": 554,
@@ -5864,6 +6130,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #267)",
         "latitude": 28.6591,
         "longitude": 77.3431,
         "traffic_volume": 620,
@@ -5886,6 +6153,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #268)",
         "latitude": 28.6607,
         "longitude": 77.3945,
         "traffic_volume": 1116,
@@ -5908,6 +6176,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #269)",
         "latitude": 28.5578,
         "longitude": 77.1539,
         "traffic_volume": 1055,
@@ -5930,6 +6199,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #270)",
         "latitude": 28.5381,
         "longitude": 77.3696,
         "traffic_volume": 825,
@@ -5952,6 +6222,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #271)",
         "latitude": 28.6928,
         "longitude": 77.0498,
         "traffic_volume": 1113,
@@ -5974,6 +6245,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #272)",
         "latitude": 28.693,
         "longitude": 77.3809,
         "traffic_volume": 600,
@@ -5996,6 +6268,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #273)",
         "latitude": 28.7101,
         "longitude": 77.0574,
         "traffic_volume": 216,
@@ -6018,6 +6291,7 @@
         ]
       },
       "properties": {
+        "location_name": "GT Karnal Road / Azadpur Flyover (Node #274)",
         "latitude": 28.724,
         "longitude": 77.1788,
         "traffic_volume": 485,
@@ -6040,6 +6314,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #275)",
         "latitude": 28.6034,
         "longitude": 77.3588,
         "traffic_volume": 683,
@@ -6062,6 +6337,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #276)",
         "latitude": 28.6005,
         "longitude": 77.0675,
         "traffic_volume": 494,
@@ -6084,6 +6360,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #277)",
         "latitude": 28.6895,
         "longitude": 77.1032,
         "traffic_volume": 1187,
@@ -6106,6 +6383,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #278)",
         "latitude": 28.645,
         "longitude": 77.325,
         "traffic_volume": 820,
@@ -6128,6 +6406,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #279)",
         "latitude": 28.6606,
         "longitude": 77.324,
         "traffic_volume": 171,
@@ -6150,6 +6429,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #280)",
         "latitude": 28.6887,
         "longitude": 77.2885,
         "traffic_volume": 373,
@@ -6172,6 +6452,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #281)",
         "latitude": 28.717,
         "longitude": 77.3123,
         "traffic_volume": 437,
@@ -6194,6 +6475,7 @@
         ]
       },
       "properties": {
+        "location_name": "Lajpat Nagar / Moolchand Underpass (Node #282)",
         "latitude": 28.5514,
         "longitude": 77.2442,
         "traffic_volume": 706,
@@ -6216,6 +6498,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #283)",
         "latitude": 28.5627,
         "longitude": 77.1133,
         "traffic_volume": 265,
@@ -6238,6 +6521,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #284)",
         "latitude": 28.4782,
         "longitude": 77.1556,
         "traffic_volume": 110,
@@ -6260,6 +6544,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #285)",
         "latitude": 28.6235,
         "longitude": 77.0817,
         "traffic_volume": 828,
@@ -6282,6 +6567,7 @@
         ]
       },
       "properties": {
+        "location_name": "Surajkund Road / Green Valley (Node #286)",
         "latitude": 28.4608,
         "longitude": 77.4088,
         "traffic_volume": 900,
@@ -6304,6 +6590,7 @@
         ]
       },
       "properties": {
+        "location_name": "Lajpat Nagar / Moolchand Underpass (Node #287)",
         "latitude": 28.5897,
         "longitude": 77.2625,
         "traffic_volume": 201,
@@ -6326,6 +6613,7 @@
         ]
       },
       "properties": {
+        "location_name": "India Gate / C-Hexagon (Node #288)",
         "latitude": 28.6128,
         "longitude": 77.1804,
         "traffic_volume": 878,
@@ -6348,6 +6636,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #289)",
         "latitude": 28.536,
         "longitude": 77.2079,
         "traffic_volume": 313,
@@ -6370,6 +6659,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #290)",
         "latitude": 28.6272,
         "longitude": 77.4263,
         "traffic_volume": 500,
@@ -6392,6 +6682,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sohna Road / Subhash Chowk (Node #291)",
         "latitude": 28.4592,
         "longitude": 77.069,
         "traffic_volume": 687,
@@ -6414,6 +6705,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #292)",
         "latitude": 28.4612,
         "longitude": 77.2638,
         "traffic_volume": 988,
@@ -6436,6 +6728,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #293)",
         "latitude": 28.6968,
         "longitude": 77.2276,
         "traffic_volume": 1169,
@@ -6458,6 +6751,7 @@
         ]
       },
       "properties": {
+        "location_name": "Outer Ring Road / Nehru Place Flyover (Node #294)",
         "latitude": 28.5581,
         "longitude": 77.2752,
         "traffic_volume": 691,
@@ -6480,6 +6774,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hero Honda Chowk / NH-48 (Node #295)",
         "latitude": 28.4881,
         "longitude": 77.0081,
         "traffic_volume": 191,
@@ -6502,6 +6797,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #296)",
         "latitude": 28.6067,
         "longitude": 77.3925,
         "traffic_volume": 772,
@@ -6524,6 +6820,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #297)",
         "latitude": 28.681,
         "longitude": 77.4195,
         "traffic_volume": 813,
@@ -6546,6 +6843,7 @@
         ]
       },
       "properties": {
+        "location_name": "Outer Ring Road / Nehru Place Flyover (Node #298)",
         "latitude": 28.5147,
         "longitude": 77.2543,
         "traffic_volume": 1035,
@@ -6568,6 +6866,7 @@
         ]
       },
       "properties": {
+        "location_name": "Akshardham / Nizamuddin Bridge Link (Node #299)",
         "latitude": 28.6369,
         "longitude": 77.3135,
         "traffic_volume": 341,
@@ -6590,6 +6889,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #300)",
         "latitude": 28.4756,
         "longitude": 77.4151,
         "traffic_volume": 101,
@@ -6612,6 +6912,7 @@
         ]
       },
       "properties": {
+        "location_name": "Bata Chowk / NH-19 Faridabad (Node #301)",
         "latitude": 28.4655,
         "longitude": 77.3183,
         "traffic_volume": 324,
@@ -6634,6 +6935,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #302)",
         "latitude": 28.6094,
         "longitude": 77.0686,
         "traffic_volume": 900,
@@ -6656,6 +6958,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #303)",
         "latitude": 28.6122,
         "longitude": 77.2593,
         "traffic_volume": 688,
@@ -6678,6 +6981,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #304)",
         "latitude": 28.6412,
         "longitude": 77.273,
         "traffic_volume": 215,
@@ -6700,6 +7004,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #305)",
         "latitude": 28.6678,
         "longitude": 77.1909,
         "traffic_volume": 1017,
@@ -6722,6 +7027,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #306)",
         "latitude": 28.7428,
         "longitude": 77.3314,
         "traffic_volume": 293,
@@ -6744,6 +7050,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #307)",
         "latitude": 28.6049,
         "longitude": 77.4205,
         "traffic_volume": 970,
@@ -6766,6 +7073,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #308)",
         "latitude": 28.5469,
         "longitude": 77.4165,
         "traffic_volume": 189,
@@ -6788,6 +7096,7 @@
         ]
       },
       "properties": {
+        "location_name": "GT Karnal Road / Azadpur Flyover (Node #309)",
         "latitude": 28.6886,
         "longitude": 77.2029,
         "traffic_volume": 221,
@@ -6810,6 +7119,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #310)",
         "latitude": 28.5312,
         "longitude": 77.051,
         "traffic_volume": 242,
@@ -6832,6 +7142,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #311)",
         "latitude": 28.5817,
         "longitude": 77.4432,
         "traffic_volume": 1093,
@@ -6854,6 +7165,7 @@
         ]
       },
       "properties": {
+        "location_name": "Surajkund Road / Green Valley (Node #312)",
         "latitude": 28.4735,
         "longitude": 77.3775,
         "traffic_volume": 205,
@@ -6876,6 +7188,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sohna Road / Subhash Chowk (Node #313)",
         "latitude": 28.4576,
         "longitude": 77.0561,
         "traffic_volume": 986,
@@ -6898,6 +7211,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #314)",
         "latitude": 28.7388,
         "longitude": 77.4144,
         "traffic_volume": 527,
@@ -6920,6 +7234,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #315)",
         "latitude": 28.7008,
         "longitude": 77.3915,
         "traffic_volume": 416,
@@ -6942,6 +7257,7 @@
         ]
       },
       "properties": {
+        "location_name": "Chandni Chowk / Red Fort Corridor (Node #316)",
         "latitude": 28.6588,
         "longitude": 77.2335,
         "traffic_volume": 734,
@@ -6964,6 +7280,7 @@
         ]
       },
       "properties": {
+        "location_name": "Lajpat Nagar / Moolchand Underpass (Node #317)",
         "latitude": 28.5727,
         "longitude": 77.2661,
         "traffic_volume": 108,
@@ -6986,6 +7303,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #318)",
         "latitude": 28.502,
         "longitude": 77.1796,
         "traffic_volume": 873,
@@ -7008,6 +7326,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sohna Road / Subhash Chowk (Node #319)",
         "latitude": 28.4969,
         "longitude": 77.0246,
         "traffic_volume": 1196,
@@ -7030,6 +7349,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #320)",
         "latitude": 28.5251,
         "longitude": 77.1508,
         "traffic_volume": 322,
@@ -7052,6 +7372,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #321)",
         "latitude": 28.6148,
         "longitude": 77.3613,
         "traffic_volume": 652,
@@ -7074,6 +7395,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #322)",
         "latitude": 28.6644,
         "longitude": 77.0021,
         "traffic_volume": 815,
@@ -7096,6 +7418,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #323)",
         "latitude": 28.6481,
         "longitude": 77.1501,
         "traffic_volume": 210,
@@ -7118,6 +7441,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #324)",
         "latitude": 28.534,
         "longitude": 77.1792,
         "traffic_volume": 350,
@@ -7140,6 +7464,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #325)",
         "latitude": 28.7365,
         "longitude": 77.2418,
         "traffic_volume": 482,
@@ -7162,6 +7487,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #326)",
         "latitude": 28.6714,
         "longitude": 77.4139,
         "traffic_volume": 106,
@@ -7184,6 +7510,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #327)",
         "latitude": 28.6163,
         "longitude": 77.1559,
         "traffic_volume": 558,
@@ -7206,6 +7533,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #328)",
         "latitude": 28.6335,
         "longitude": 77.1561,
         "traffic_volume": 307,
@@ -7228,6 +7556,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida Sector 18 / Atta Market Corridor (Node #329)",
         "latitude": 28.5759,
         "longitude": 77.3319,
         "traffic_volume": 999,
@@ -7250,6 +7579,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #330)",
         "latitude": 28.5243,
         "longitude": 77.2035,
         "traffic_volume": 121,
@@ -7272,6 +7602,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #331)",
         "latitude": 28.5568,
         "longitude": 77.1011,
         "traffic_volume": 509,
@@ -7294,6 +7625,7 @@
         ]
       },
       "properties": {
+        "location_name": "GT Karnal Road / Azadpur Flyover (Node #332)",
         "latitude": 28.6774,
         "longitude": 77.2036,
         "traffic_volume": 994,
@@ -7316,6 +7648,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sohna Road / Subhash Chowk (Node #333)",
         "latitude": 28.4543,
         "longitude": 77.0634,
         "traffic_volume": 614,
@@ -7338,6 +7671,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #334)",
         "latitude": 28.4848,
         "longitude": 77.0794,
         "traffic_volume": 908,
@@ -7360,6 +7694,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #335)",
         "latitude": 28.4638,
         "longitude": 77.2243,
         "traffic_volume": 973,
@@ -7382,6 +7717,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #336)",
         "latitude": 28.4622,
         "longitude": 77.1885,
         "traffic_volume": 113,
@@ -7404,6 +7740,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #337)",
         "latitude": 28.7066,
         "longitude": 77.4117,
         "traffic_volume": 1070,
@@ -7426,6 +7763,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #338)",
         "latitude": 28.6611,
         "longitude": 77.1631,
         "traffic_volume": 1077,
@@ -7448,6 +7786,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #339)",
         "latitude": 28.5923,
         "longitude": 77.2613,
         "traffic_volume": 1113,
@@ -7470,6 +7809,7 @@
         ]
       },
       "properties": {
+        "location_name": "Mathura Road / Badarpur Border (Node #340)",
         "latitude": 28.4794,
         "longitude": 77.2845,
         "traffic_volume": 1135,
@@ -7492,6 +7832,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #341)",
         "latitude": 28.5975,
         "longitude": 77.0059,
         "traffic_volume": 186,
@@ -7514,6 +7855,7 @@
         ]
       },
       "properties": {
+        "location_name": "Akshardham / Nizamuddin Bridge Link (Node #342)",
         "latitude": 28.592,
         "longitude": 77.2986,
         "traffic_volume": 1008,
@@ -7536,6 +7878,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #343)",
         "latitude": 28.502,
         "longitude": 77.0801,
         "traffic_volume": 221,
@@ -7558,6 +7901,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #344)",
         "latitude": 28.5802,
         "longitude": 77.4325,
         "traffic_volume": 849,
@@ -7580,6 +7924,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #345)",
         "latitude": 28.5696,
         "longitude": 77.0669,
         "traffic_volume": 784,
@@ -7602,6 +7947,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #346)",
         "latitude": 28.6348,
         "longitude": 77.1866,
         "traffic_volume": 408,
@@ -7624,6 +7970,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #347)",
         "latitude": 28.6405,
         "longitude": 77.0384,
         "traffic_volume": 794,
@@ -7646,6 +7993,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #348)",
         "latitude": 28.4636,
         "longitude": 77.4486,
         "traffic_volume": 387,
@@ -7668,6 +8016,7 @@
         ]
       },
       "properties": {
+        "location_name": "Lajpat Nagar / Moolchand Underpass (Node #349)",
         "latitude": 28.5624,
         "longitude": 77.226,
         "traffic_volume": 406,
@@ -7690,6 +8039,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #350)",
         "latitude": 28.6378,
         "longitude": 77.2679,
         "traffic_volume": 1013,
@@ -7712,6 +8062,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #351)",
         "latitude": 28.6009,
         "longitude": 77.0302,
         "traffic_volume": 761,
@@ -7734,6 +8085,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #352)",
         "latitude": 28.7069,
         "longitude": 77.3375,
         "traffic_volume": 648,
@@ -7756,6 +8108,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #353)",
         "latitude": 28.6476,
         "longitude": 77.0945,
         "traffic_volume": 411,
@@ -7778,6 +8131,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #354)",
         "latitude": 28.4989,
         "longitude": 77.4041,
         "traffic_volume": 972,
@@ -7800,6 +8154,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #355)",
         "latitude": 28.4712,
         "longitude": 77.0923,
         "traffic_volume": 1182,
@@ -7822,6 +8177,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #356)",
         "latitude": 28.6427,
         "longitude": 77.0858,
         "traffic_volume": 1023,
@@ -7844,6 +8200,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hero Honda Chowk / NH-48 (Node #357)",
         "latitude": 28.458,
         "longitude": 77.0164,
         "traffic_volume": 854,
@@ -7866,6 +8223,7 @@
         ]
       },
       "properties": {
+        "location_name": "Connaught Place / Outer Circle (Node #358)",
         "latitude": 28.6257,
         "longitude": 77.2124,
         "traffic_volume": 134,
@@ -7888,6 +8246,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #359)",
         "latitude": 28.7321,
         "longitude": 77.2542,
         "traffic_volume": 544,
@@ -7910,6 +8269,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #360)",
         "latitude": 28.6226,
         "longitude": 77.0296,
         "traffic_volume": 192,
@@ -7932,6 +8292,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida Sector 18 / Atta Market Corridor (Node #361)",
         "latitude": 28.5665,
         "longitude": 77.349,
         "traffic_volume": 452,
@@ -7954,6 +8315,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #362)",
         "latitude": 28.643,
         "longitude": 77.204,
         "traffic_volume": 1002,
@@ -7976,6 +8338,7 @@
         ]
       },
       "properties": {
+        "location_name": "Lajpat Nagar / Moolchand Underpass (Node #363)",
         "latitude": 28.5875,
         "longitude": 77.236,
         "traffic_volume": 961,
@@ -7998,6 +8361,7 @@
         ]
       },
       "properties": {
+        "location_name": "India Gate / C-Hexagon (Node #364)",
         "latitude": 28.6137,
         "longitude": 77.1983,
         "traffic_volume": 258,
@@ -8020,6 +8384,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #365)",
         "latitude": 28.7324,
         "longitude": 77.1803,
         "traffic_volume": 1056,
@@ -8042,6 +8407,7 @@
         ]
       },
       "properties": {
+        "location_name": "Lajpat Nagar / Moolchand Underpass (Node #366)",
         "latitude": 28.5658,
         "longitude": 77.2518,
         "traffic_volume": 123,
@@ -8064,6 +8430,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #367)",
         "latitude": 28.7384,
         "longitude": 77.0699,
         "traffic_volume": 503,
@@ -8086,6 +8453,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #368)",
         "latitude": 28.7216,
         "longitude": 77.0819,
         "traffic_volume": 904,
@@ -8108,6 +8476,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #369)",
         "latitude": 28.5087,
         "longitude": 77.3878,
         "traffic_volume": 615,
@@ -8130,6 +8499,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #370)",
         "latitude": 28.4708,
         "longitude": 77.4258,
         "traffic_volume": 831,
@@ -8152,6 +8522,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #371)",
         "latitude": 28.4802,
         "longitude": 77.168,
         "traffic_volume": 631,
@@ -8174,6 +8545,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #372)",
         "latitude": 28.4555,
         "longitude": 77.1218,
         "traffic_volume": 1055,
@@ -8196,6 +8568,7 @@
         ]
       },
       "properties": {
+        "location_name": "Mathura Road / Badarpur Border (Node #373)",
         "latitude": 28.4783,
         "longitude": 77.2898,
         "traffic_volume": 251,
@@ -8218,6 +8591,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #374)",
         "latitude": 28.6549,
         "longitude": 77.1839,
         "traffic_volume": 1046,
@@ -8240,6 +8614,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hero Honda Chowk / NH-48 (Node #375)",
         "latitude": 28.4714,
         "longitude": 77.0114,
         "traffic_volume": 707,
@@ -8262,6 +8637,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #376)",
         "latitude": 28.5457,
         "longitude": 77.0703,
         "traffic_volume": 519,
@@ -8284,6 +8660,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #377)",
         "latitude": 28.7035,
         "longitude": 77.3222,
         "traffic_volume": 965,
@@ -8306,6 +8683,7 @@
         ]
       },
       "properties": {
+        "location_name": "Bata Chowk / NH-19 Faridabad (Node #378)",
         "latitude": 28.457,
         "longitude": 77.2965,
         "traffic_volume": 677,
@@ -8328,6 +8706,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #379)",
         "latitude": 28.6943,
         "longitude": 77.0122,
         "traffic_volume": 434,
@@ -8350,6 +8729,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #380)",
         "latitude": 28.5346,
         "longitude": 77.0999,
         "traffic_volume": 1031,
@@ -8372,6 +8752,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #381)",
         "latitude": 28.4854,
         "longitude": 77.104,
         "traffic_volume": 394,
@@ -8394,6 +8775,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #382)",
         "latitude": 28.659,
         "longitude": 77.3024,
         "traffic_volume": 854,
@@ -8416,6 +8798,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #383)",
         "latitude": 28.6387,
         "longitude": 77.0089,
         "traffic_volume": 285,
@@ -8438,6 +8821,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #384)",
         "latitude": 28.7132,
         "longitude": 77.0468,
         "traffic_volume": 736,
@@ -8460,6 +8844,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #385)",
         "latitude": 28.6705,
         "longitude": 77.36,
         "traffic_volume": 629,
@@ -8482,6 +8867,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #386)",
         "latitude": 28.691,
         "longitude": 77.0803,
         "traffic_volume": 120,
@@ -8504,6 +8890,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #387)",
         "latitude": 28.5346,
         "longitude": 77.2937,
         "traffic_volume": 1010,
@@ -8526,6 +8913,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #388)",
         "latitude": 28.5032,
         "longitude": 77.1072,
         "traffic_volume": 966,
@@ -8548,6 +8936,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #389)",
         "latitude": 28.6752,
         "longitude": 77.0447,
         "traffic_volume": 893,
@@ -8570,6 +8959,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #390)",
         "latitude": 28.6921,
         "longitude": 77.1094,
         "traffic_volume": 199,
@@ -8592,6 +8982,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #391)",
         "latitude": 28.7472,
         "longitude": 77.325,
         "traffic_volume": 851,
@@ -8614,6 +9005,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #392)",
         "latitude": 28.5738,
         "longitude": 77.3851,
         "traffic_volume": 577,
@@ -8636,6 +9028,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #393)",
         "latitude": 28.5616,
         "longitude": 77.3736,
         "traffic_volume": 1039,
@@ -8658,6 +9051,7 @@
         ]
       },
       "properties": {
+        "location_name": "GT Karnal Road / Azadpur Flyover (Node #394)",
         "latitude": 28.6829,
         "longitude": 77.1787,
         "traffic_volume": 625,
@@ -8680,6 +9074,7 @@
         ]
       },
       "properties": {
+        "location_name": "DND Flyway / Mayur Vihar Toll (Node #395)",
         "latitude": 28.5522,
         "longitude": 77.3006,
         "traffic_volume": 433,
@@ -8702,6 +9097,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #396)",
         "latitude": 28.7292,
         "longitude": 77.0922,
         "traffic_volume": 101,
@@ -8724,6 +9120,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #397)",
         "latitude": 28.7075,
         "longitude": 77.1319,
         "traffic_volume": 474,
@@ -8746,6 +9143,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #398)",
         "latitude": 28.5787,
         "longitude": 77.4034,
         "traffic_volume": 392,
@@ -8768,6 +9166,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #399)",
         "latitude": 28.6753,
         "longitude": 77.0059,
         "traffic_volume": 936,
@@ -8790,6 +9189,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #400)",
         "latitude": 28.6764,
         "longitude": 77.0385,
         "traffic_volume": 1104,
@@ -8812,6 +9212,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #401)",
         "latitude": 28.4809,
         "longitude": 77.0935,
         "traffic_volume": 652,
@@ -8834,6 +9235,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #402)",
         "latitude": 28.7208,
         "longitude": 77.0119,
         "traffic_volume": 417,
@@ -8856,6 +9258,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #403)",
         "latitude": 28.6016,
         "longitude": 77.0816,
         "traffic_volume": 480,
@@ -8878,6 +9281,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #404)",
         "latitude": 28.6979,
         "longitude": 77.2624,
         "traffic_volume": 113,
@@ -8900,6 +9304,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #405)",
         "latitude": 28.546,
         "longitude": 77.1896,
         "traffic_volume": 603,
@@ -8922,6 +9327,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #406)",
         "latitude": 28.7187,
         "longitude": 77.4017,
         "traffic_volume": 330,
@@ -8944,6 +9350,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida Sector 18 / Atta Market Corridor (Node #407)",
         "latitude": 28.5668,
         "longitude": 77.3678,
         "traffic_volume": 229,
@@ -8966,6 +9373,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #408)",
         "latitude": 28.4533,
         "longitude": 77.1538,
         "traffic_volume": 937,
@@ -8988,6 +9396,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #409)",
         "latitude": 28.7216,
         "longitude": 77.1167,
         "traffic_volume": 990,
@@ -9010,6 +9419,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #410)",
         "latitude": 28.4774,
         "longitude": 77.1709,
         "traffic_volume": 127,
@@ -9032,6 +9442,7 @@
         ]
       },
       "properties": {
+        "location_name": "Outer Ring Road / Nehru Place Flyover (Node #411)",
         "latitude": 28.5458,
         "longitude": 77.2656,
         "traffic_volume": 165,
@@ -9054,6 +9465,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #412)",
         "latitude": 28.735,
         "longitude": 77.1206,
         "traffic_volume": 360,
@@ -9076,6 +9488,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #413)",
         "latitude": 28.7352,
         "longitude": 77.2809,
         "traffic_volume": 559,
@@ -9098,6 +9511,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #414)",
         "latitude": 28.622,
         "longitude": 77.1842,
         "traffic_volume": 400,
@@ -9120,6 +9534,7 @@
         ]
       },
       "properties": {
+        "location_name": "Chandni Chowk / Red Fort Corridor (Node #415)",
         "latitude": 28.6396,
         "longitude": 77.2484,
         "traffic_volume": 1018,
@@ -9142,6 +9557,7 @@
         ]
       },
       "properties": {
+        "location_name": "Ring Road / AIIMS - Safdarjung Junction (Node #416)",
         "latitude": 28.5845,
         "longitude": 77.1963,
         "traffic_volume": 386,
@@ -9164,6 +9580,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #417)",
         "latitude": 28.538,
         "longitude": 77.1325,
         "traffic_volume": 1133,
@@ -9186,6 +9603,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #418)",
         "latitude": 28.5486,
         "longitude": 77.4268,
         "traffic_volume": 729,
@@ -9208,6 +9626,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #419)",
         "latitude": 28.6518,
         "longitude": 77.3436,
         "traffic_volume": 369,
@@ -9230,6 +9649,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #420)",
         "latitude": 28.6757,
         "longitude": 77.0631,
         "traffic_volume": 691,
@@ -9252,6 +9672,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #421)",
         "latitude": 28.6875,
         "longitude": 77.3908,
         "traffic_volume": 943,
@@ -9274,6 +9695,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #422)",
         "latitude": 28.6869,
         "longitude": 77.2193,
         "traffic_volume": 961,
@@ -9296,6 +9718,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #423)",
         "latitude": 28.4774,
         "longitude": 77.4025,
         "traffic_volume": 232,
@@ -9318,6 +9741,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #424)",
         "latitude": 28.5983,
         "longitude": 77.3599,
         "traffic_volume": 1071,
@@ -9340,6 +9764,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #425)",
         "latitude": 28.4673,
         "longitude": 77.1913,
         "traffic_volume": 612,
@@ -9362,6 +9787,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #426)",
         "latitude": 28.6149,
         "longitude": 77.0101,
         "traffic_volume": 412,
@@ -9384,6 +9810,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #427)",
         "latitude": 28.5825,
         "longitude": 77.1209,
         "traffic_volume": 675,
@@ -9406,6 +9833,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #428)",
         "latitude": 28.7163,
         "longitude": 77.2437,
         "traffic_volume": 985,
@@ -9428,6 +9856,7 @@
         ]
       },
       "properties": {
+        "location_name": "Outer Ring Road / Nehru Place Flyover (Node #429)",
         "latitude": 28.5553,
         "longitude": 77.2851,
         "traffic_volume": 786,
@@ -9450,6 +9879,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #430)",
         "latitude": 28.4851,
         "longitude": 77.116,
         "traffic_volume": 264,
@@ -9472,6 +9902,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #431)",
         "latitude": 28.4929,
         "longitude": 77.0627,
         "traffic_volume": 404,
@@ -9494,6 +9925,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #432)",
         "latitude": 28.6785,
         "longitude": 77.3757,
         "traffic_volume": 255,
@@ -9516,6 +9948,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #433)",
         "latitude": 28.6355,
         "longitude": 77.443,
         "traffic_volume": 719,
@@ -9538,6 +9971,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #434)",
         "latitude": 28.4803,
         "longitude": 77.2366,
         "traffic_volume": 1056,
@@ -9560,6 +9994,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #435)",
         "latitude": 28.4752,
         "longitude": 77.0773,
         "traffic_volume": 433,
@@ -9582,6 +10017,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #436)",
         "latitude": 28.6603,
         "longitude": 77.1225,
         "traffic_volume": 1068,
@@ -9604,6 +10040,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hero Honda Chowk / NH-48 (Node #437)",
         "latitude": 28.4718,
         "longitude": 77.0083,
         "traffic_volume": 610,
@@ -9626,6 +10063,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #438)",
         "latitude": 28.6966,
         "longitude": 77.4114,
         "traffic_volume": 1143,
@@ -9648,6 +10086,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #439)",
         "latitude": 28.6619,
         "longitude": 77.053,
         "traffic_volume": 381,
@@ -9670,6 +10109,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #440)",
         "latitude": 28.4744,
         "longitude": 77.2594,
         "traffic_volume": 896,
@@ -9692,6 +10132,7 @@
         ]
       },
       "properties": {
+        "location_name": "Golf Course Road / DLF Phase 5 (Node #441)",
         "latitude": 28.4755,
         "longitude": 77.1233,
         "traffic_volume": 1124,
@@ -9714,6 +10155,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #442)",
         "latitude": 28.746,
         "longitude": 77.2494,
         "traffic_volume": 218,
@@ -9736,6 +10178,7 @@
         ]
       },
       "properties": {
+        "location_name": "DND Flyway / Mayur Vihar Toll (Node #443)",
         "latitude": 28.5623,
         "longitude": 77.2931,
         "traffic_volume": 1158,
@@ -9758,6 +10201,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #444)",
         "latitude": 28.5612,
         "longitude": 77.3734,
         "traffic_volume": 297,
@@ -9780,6 +10224,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #445)",
         "latitude": 28.6938,
         "longitude": 77.0929,
         "traffic_volume": 584,
@@ -9802,6 +10247,7 @@
         ]
       },
       "properties": {
+        "location_name": "Janakpuri District Centre / Najafgarh Rd (Node #446)",
         "latitude": 28.7342,
         "longitude": 77.0049,
         "traffic_volume": 1182,
@@ -9824,6 +10270,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #447)",
         "latitude": 28.7458,
         "longitude": 77.0616,
         "traffic_volume": 936,
@@ -9846,6 +10293,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #448)",
         "latitude": 28.676,
         "longitude": 77.405,
         "traffic_volume": 1108,
@@ -9868,6 +10316,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida-Gr Noida Expressway (Sec 128) (Node #449)",
         "latitude": 28.5629,
         "longitude": 77.3933,
         "traffic_volume": 790,
@@ -9890,6 +10339,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #450)",
         "latitude": 28.4751,
         "longitude": 77.2688,
         "traffic_volume": 1135,
@@ -9912,6 +10362,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kashmere Gate ISBT / Ring Road (Node #451)",
         "latitude": 28.6831,
         "longitude": 77.2702,
         "traffic_volume": 589,
@@ -9934,6 +10385,7 @@
         ]
       },
       "properties": {
+        "location_name": "Akshardham / Nizamuddin Bridge Link (Node #452)",
         "latitude": 28.6175,
         "longitude": 77.2993,
         "traffic_volume": 375,
@@ -9956,6 +10408,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Expressway / Sector 21 Junction (Node #453)",
         "latitude": 28.5773,
         "longitude": 77.0789,
         "traffic_volume": 792,
@@ -9978,6 +10431,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #454)",
         "latitude": 28.7219,
         "longitude": 77.4115,
         "traffic_volume": 341,
@@ -10000,6 +10454,7 @@
         ]
       },
       "properties": {
+        "location_name": "Saket / Press Enclave Road (Node #455)",
         "latitude": 28.4834,
         "longitude": 77.1884,
         "traffic_volume": 225,
@@ -10022,6 +10477,7 @@
         ]
       },
       "properties": {
+        "location_name": "India Gate / C-Hexagon (Node #456)",
         "latitude": 28.5978,
         "longitude": 77.1724,
         "traffic_volume": 316,
@@ -10044,6 +10500,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #457)",
         "latitude": 28.4534,
         "longitude": 77.2335,
         "traffic_volume": 1162,
@@ -10066,6 +10523,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #458)",
         "latitude": 28.5906,
         "longitude": 77.0211,
         "traffic_volume": 594,
@@ -10088,6 +10546,7 @@
         ]
       },
       "properties": {
+        "location_name": "MG Road / IFFCO Chowk Gurgaon (Node #459)",
         "latitude": 28.4669,
         "longitude": 77.0748,
         "traffic_volume": 526,
@@ -10110,6 +10569,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sarita Vihar / Apollo Hospital Corridor (Node #460)",
         "latitude": 28.4856,
         "longitude": 77.3321,
         "traffic_volume": 1018,
@@ -10132,6 +10592,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sohna Road / Subhash Chowk (Node #461)",
         "latitude": 28.4853,
         "longitude": 77.0373,
         "traffic_volume": 250,
@@ -10154,6 +10615,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #462)",
         "latitude": 28.6448,
         "longitude": 77.2714,
         "traffic_volume": 483,
@@ -10176,6 +10638,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #463)",
         "latitude": 28.6738,
         "longitude": 77.1104,
         "traffic_volume": 407,
@@ -10198,6 +10661,7 @@
         ]
       },
       "properties": {
+        "location_name": "Karol Bagh / Pusa Road (Node #464)",
         "latitude": 28.625,
         "longitude": 77.1752,
         "traffic_volume": 845,
@@ -10220,6 +10684,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #465)",
         "latitude": 28.7387,
         "longitude": 77.1299,
         "traffic_volume": 991,
@@ -10242,6 +10707,7 @@
         ]
       },
       "properties": {
+        "location_name": "Ring Road / AIIMS - Safdarjung Junction (Node #466)",
         "latitude": 28.5625,
         "longitude": 77.1601,
         "traffic_volume": 474,
@@ -10264,6 +10730,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sarita Vihar / Apollo Hospital Corridor (Node #467)",
         "latitude": 28.5357,
         "longitude": 77.3236,
         "traffic_volume": 1131,
@@ -10286,6 +10753,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #468)",
         "latitude": 28.7106,
         "longitude": 77.1337,
         "traffic_volume": 228,
@@ -10308,6 +10776,7 @@
         ]
       },
       "properties": {
+        "location_name": "Outer Ring Road / Nehru Place Flyover (Node #469)",
         "latitude": 28.5171,
         "longitude": 77.2549,
         "traffic_volume": 1114,
@@ -10330,6 +10799,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #470)",
         "latitude": 28.739,
         "longitude": 77.2142,
         "traffic_volume": 768,
@@ -10352,6 +10822,7 @@
         ]
       },
       "properties": {
+        "location_name": "Bata Chowk / NH-19 Faridabad (Node #471)",
         "latitude": 28.4536,
         "longitude": 77.2987,
         "traffic_volume": 616,
@@ -10374,6 +10845,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #472)",
         "latitude": 28.741,
         "longitude": 77.4216,
         "traffic_volume": 185,
@@ -10396,6 +10868,7 @@
         ]
       },
       "properties": {
+        "location_name": "Surajkund Road / Green Valley (Node #473)",
         "latitude": 28.4629,
         "longitude": 77.3297,
         "traffic_volume": 410,
@@ -10418,6 +10891,7 @@
         ]
       },
       "properties": {
+        "location_name": "Punjabi Bagh Chowk / Rohtak Road (Node #474)",
         "latitude": 28.7173,
         "longitude": 77.0967,
         "traffic_volume": 526,
@@ -10440,6 +10914,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #475)",
         "latitude": 28.6083,
         "longitude": 77.014,
         "traffic_volume": 213,
@@ -10462,6 +10937,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #476)",
         "latitude": 28.7479,
         "longitude": 77.118,
         "traffic_volume": 402,
@@ -10484,6 +10960,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #477)",
         "latitude": 28.4721,
         "longitude": 77.2678,
         "traffic_volume": 843,
@@ -10506,6 +10983,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #478)",
         "latitude": 28.6162,
         "longitude": 77.0231,
         "traffic_volume": 687,
@@ -10528,6 +11006,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #479)",
         "latitude": 28.7408,
         "longitude": 77.2234,
         "traffic_volume": 1086,
@@ -10550,6 +11029,7 @@
         ]
       },
       "properties": {
+        "location_name": "ITO Intersection / Vikas Marg (Node #480)",
         "latitude": 28.6069,
         "longitude": 77.2686,
         "traffic_volume": 444,
@@ -10572,6 +11052,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rajouri Garden / Ring Road (Node #481)",
         "latitude": 28.6388,
         "longitude": 77.1504,
         "traffic_volume": 913,
@@ -10594,6 +11075,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #482)",
         "latitude": 28.6587,
         "longitude": 77.3469,
         "traffic_volume": 900,
@@ -10616,6 +11098,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #483)",
         "latitude": 28.5864,
         "longitude": 77.048,
         "traffic_volume": 1124,
@@ -10638,6 +11121,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #484)",
         "latitude": 28.6383,
         "longitude": 77.0338,
         "traffic_volume": 1176,
@@ -10660,6 +11144,7 @@
         ]
       },
       "properties": {
+        "location_name": "Akshardham / Nizamuddin Bridge Link (Node #485)",
         "latitude": 28.6253,
         "longitude": 77.3277,
         "traffic_volume": 1192,
@@ -10682,6 +11167,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #486)",
         "latitude": 28.7203,
         "longitude": 77.223,
         "traffic_volume": 460,
@@ -10704,6 +11190,7 @@
         ]
       },
       "properties": {
+        "location_name": "Bata Chowk / NH-19 Faridabad (Node #487)",
         "latitude": 28.4636,
         "longitude": 77.3098,
         "traffic_volume": 1109,
@@ -10726,6 +11213,7 @@
         ]
       },
       "properties": {
+        "location_name": "Hauz Khas / Sri Aurobindo Marg (Node #488)",
         "latitude": 28.5343,
         "longitude": 77.1957,
         "traffic_volume": 803,
@@ -10748,6 +11236,7 @@
         ]
       },
       "properties": {
+        "location_name": "Rohini Sector 16 / Outer Ring Road (Node #489)",
         "latitude": 28.7351,
         "longitude": 77.1109,
         "traffic_volume": 674,
@@ -10770,6 +11259,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #490)",
         "latitude": 28.7171,
         "longitude": 77.3686,
         "traffic_volume": 787,
@@ -10792,6 +11282,7 @@
         ]
       },
       "properties": {
+        "location_name": "Noida Sector 18 / Atta Market Corridor (Node #491)",
         "latitude": 28.5867,
         "longitude": 77.3597,
         "traffic_volume": 880,
@@ -10814,6 +11305,7 @@
         ]
       },
       "properties": {
+        "location_name": "Akshardham / Nizamuddin Bridge Link (Node #492)",
         "latitude": 28.636,
         "longitude": 77.3126,
         "traffic_volume": 684,
@@ -10836,6 +11328,7 @@
         ]
       },
       "properties": {
+        "location_name": "NH-48 / Cyber City - Shankar Chowk (Node #493)",
         "latitude": 28.5332,
         "longitude": 77.1225,
         "traffic_volume": 688,
@@ -10858,6 +11351,7 @@
         ]
       },
       "properties": {
+        "location_name": "Kalka Mandir / Maa Anandmayee Marg (Node #494)",
         "latitude": 28.5064,
         "longitude": 77.2656,
         "traffic_volume": 588,
@@ -10880,6 +11374,7 @@
         ]
       },
       "properties": {
+        "location_name": "India Gate / C-Hexagon (Node #495)",
         "latitude": 28.5891,
         "longitude": 77.1624,
         "traffic_volume": 1070,
@@ -10902,6 +11397,7 @@
         ]
       },
       "properties": {
+        "location_name": "Dwarka Sector 10 / Metro Corridor (Node #496)",
         "latitude": 28.556,
         "longitude": 77.0412,
         "traffic_volume": 593,
@@ -10924,6 +11420,7 @@
         ]
       },
       "properties": {
+        "location_name": "Indirapuram / NH-24 Ghaziabad Link (Node #497)",
         "latitude": 28.6251,
         "longitude": 77.4128,
         "traffic_volume": 118,
@@ -10946,6 +11443,7 @@
         ]
       },
       "properties": {
+        "location_name": "Sohna Road / Subhash Chowk (Node #498)",
         "latitude": 28.4733,
         "longitude": 77.0616,
         "traffic_volume": 496,
@@ -10968,6 +11466,7 @@
         ]
       },
       "properties": {
+        "location_name": "Shastri Park / Grand Trunk Road (Node #499)",
         "latitude": 28.7423,
         "longitude": 77.4276,
         "traffic_volume": 1100,
@@ -10990,6 +11489,7 @@
         ]
       },
       "properties": {
+        "location_name": "Model Town / Ring Road Junction (Node #500)",
         "latitude": 28.7459,
         "longitude": 77.2007,
         "traffic_volume": 950,

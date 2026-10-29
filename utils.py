@@ -82,7 +82,14 @@ def load_dataset(dataset_type: str = "road_accident") -> pd.DataFrame:
         from road_data_simulator import generate_road_dataset
         return generate_road_dataset(500)
 
-    return pd.read_csv(ROAD_ACCIDENT_FILE)
+    df = pd.read_csv(ROAD_ACCIDENT_FILE)
+    if "location_name" not in df.columns:
+        from road_data_simulator import assign_landmark
+        df["location_name"] = [
+            assign_landmark(lat, lon, i)
+            for i, (lat, lon) in enumerate(zip(df["latitude"], df["longitude"]))
+        ]
+    return df
 
 
 def predict_risk(
