@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-29T20:11:04.897039",
-  "latitude": 28.6271,
-  "longitude": 77.1993,
-  "traffic_volume": 957,
-  "average_speed": 25,
-  "weather_condition": "Clear",
-  "visibility": 5.0,
+  "timestamp": "2026-11-19T18:10:09.922281",
+  "latitude": 28.7271,
+  "longitude": 77.1685,
+  "traffic_volume": 438,
+  "average_speed": 39,
+  "weather_condition": "Fog",
+  "visibility": 4.4,
   "road_condition": "Damaged",
-  "historical_accidents": 17
+  "historical_accidents": 15
 }
