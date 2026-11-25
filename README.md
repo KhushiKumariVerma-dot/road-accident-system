@@ -1,5 +1,22 @@
 # 🚦 AI-Powered Road Accident Risk & IoT Telemetry System
 
+> **HCL Technologies Final Assessment Project Submission**  
+> **Candidate:** Khushi Kumari Verma | **Domain:** AI / ML & IoT Telemetry  
+> **Accuracy:** 87.00% (XGBoost) | **Verification:** 11/11 Automated Tests Passed (100%)
+
+---
+
+### 📥 Project PDF Reports (Direct Download)
+- 📄 **[Download Master Submission Report (PDF)](./Road_Accident_Risk_System_MASTER_SUBMISSION.pdf)** — *All-in-one comprehensive report with Synopsis, Architecture, 11/11 Test Proofs, Dashboard Screenshot, and Full Source Code.*
+- 📋 **[Download Project Synopsis (PDF)](./reports/Road_Accident_Risk_System_SYNOPSIS.pdf)** — *Full 12-section technical project synopsis.*
+
+---
+
+### 📸 Live Dashboard Output
+![Traffic Command Center Dashboard Output](./reports/dashboard_output.png)
+
+---
+
 An end-to-end intelligent road safety platform combining **high-frequency IoT sensor telemetry**, **XGBoost machine learning (87.0% accuracy)**, **geospatial accident hotspot mapping**, dual **FastAPI & Flask REST APIs**, and an interactive **Streamlit analytics dashboard**.
 
 ---
