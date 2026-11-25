@@ -6,12 +6,6 @@
 
 ---
 
-### 📥 Project PDF Reports (Direct Download)
-- 📄 **[Download Master Submission Report (PDF)](./Road_Accident_Risk_System_MASTER_SUBMISSION.pdf)** — *All-in-one comprehensive report with Synopsis, Architecture, 11/11 Test Proofs, Dashboard Screenshot, and Full Source Code.*
-- 📋 **[Download Project Synopsis (PDF)](./reports/Road_Accident_Risk_System_SYNOPSIS.pdf)** — *Full 12-section technical project synopsis.*
-
----
-
 ### 📸 Live Dashboard Output
 ![Traffic Command Center Dashboard Output](./reports/dashboard_output.png)
 
